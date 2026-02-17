@@ -1,0 +1,110 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial,Helvetica,sans-serif;
+}
+
+body{
+  background:linear-gradient(135deg,#f5f7ff,#e8f0ff);
+  min-height:100vh;
+}
+
+.app{
+  width:100%;
+}
+
+.navbar{
+  width:100%;
+  background:white;
+  padding:16px 30px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  box-shadow:0 4px 12px rgba(0,0,0,0.08);
+}
+
+.logo{
+  font-size:22px;
+  font-weight:700;
+  color:#1a1a1a;
+}
+
+.links{
+  display:flex;
+  gap:18px;
+}
+
+.navLink{
+  text-decoration:none;
+  color:#2b2b2b;
+  font-size:16px;
+  font-weight:600;
+  padding:8px 14px;
+  border-radius:8px;
+  transition:0.2s;
+}
+
+.navLink:hover{
+  background:#2563eb;
+  color:white;
+}
+
+.content{
+  padding:50px 20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.page{
+  width:600px;
+  background:white;
+  padding:40px;
+  border-radius:16px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.08);
+  text-align:center;
+}
+
+.title{
+  font-size:32px;
+  font-weight:800;
+  margin-bottom:12px;
+  color:#111827;
+}
+
+.text{
+  font-size:18px;
+  color:#374151;
+  line-height:1.5;
+}
+
+.loaderBox{
+  width:600px;
+  background:white;
+  padding:50px;
+  border-radius:16px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.08);
+  text-align:center;
+}
+
+.spinner{
+  width:55px;
+  height:55px;
+  border:6px solid #dbeafe;
+  border-top:6px solid #2563eb;
+  border-radius:50%;
+  margin:0 auto 18px auto;
+  animation:spin 0.8s linear infinite;
+}
+
+.loadingText{
+  font-size:20px;
+  font-weight:700;
+  color:#2563eb;
+}
+
+@keyframes spin{
+  0%{transform:rotate(0deg);}
+  100%{transform:rotate(360deg);}
+}
