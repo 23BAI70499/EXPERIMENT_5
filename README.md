@@ -42,20 +42,21 @@ This project demonstrates how to optimize frontend performance in a React Single
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots (Combined)
 
-### 📌 Project Folder Structure
-![Folder Structure](screenshots/1.jpg)
+### 📌 All Screenshots
 
----
+| Screenshot 1 | Screenshot 2 |
+|------------|--------------|
+| ![](screenshots/1.jpg) | ![](screenshots/2.jpg) |
 
-### 📌 Experiment 1: Component Lazy Loading
-![Experiment 1](screenshots/Screenshot%202026-02-17%20115112.png)
+| Screenshot 3 | Screenshot 4 |
+|------------|--------------|
+| ![](screenshots/Screenshot%202026-02-17%20115112.png) | ![](screenshots/Screenshot%202026-02-17%20115121.png) |
 
----
-
-### 📌 Experiment 2: Route-Based Lazy Loading
-![Experiment 2](screenshots/Screenshot%202026-02-17%20115146.png)
+| Screenshot 5 | Screenshot 6 |
+|------------|--------------|
+| ![](screenshots/Screenshot%202026-02-17%20115126.png) | ![](screenshots/Screenshot%202026-02-17%20115146.png) |
 
 ---
 
