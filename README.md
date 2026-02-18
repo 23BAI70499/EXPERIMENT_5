@@ -39,7 +39,6 @@ This project demonstrates how to optimize frontend performance in a React Single
 - `Suspense`
 - Route-Based Lazy Loading
 - SPA Routing (React Router DOM)
-
 ---
 ## 📷 Screenshots (Combined)
 
@@ -50,10 +49,13 @@ This project demonstrates how to optimize frontend performance in a React Single
 
 <p align="center">
   <img src="screenshots/Screenshot%202026-02-17%20115112.png" width="45%" />
-  <img src="screenshots/Screenshot%202026-02-17%20115146.png" width="45%" />
+  <img src="screenshots/Screenshot%202026-02-17%20115121.png" width="45%" />
 </p>
 
-
+<p align="center">
+  <img src="screenshots/Screenshot%202026-02-17%20115126.png" width="45%" />
+  <img src="screenshots/Screenshot%202026-02-17%20115146.png" width="45%" />
+</p>
 ---
 
 ## ▶️ How to Run This Project
