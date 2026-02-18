@@ -42,9 +42,8 @@ This project demonstrates how to optimize frontend performance in a React Single
 
 ---
 
-## 📷 Screenshots (Combined)
 
-### 📌 All Screenshots
+## 📷 Screenshots (Combined)
 
 | Screenshot 1 | Screenshot 2 |
 |------------|--------------|
@@ -52,11 +51,7 @@ This project demonstrates how to optimize frontend performance in a React Single
 
 | Screenshot 3 | Screenshot 4 |
 |------------|--------------|
-| ![](screenshots/Screenshot%202026-02-17%20115112.png) | ![](screenshots/Screenshot%202026-02-17%20115121.png) |
-
-| Screenshot 5 | Screenshot 6 |
-|------------|--------------|
-| ![](screenshots/Screenshot%202026-02-17%20115126.png) | ![](screenshots/Screenshot%202026-02-17%20115146.png) |
+| ![](screenshots/Screenshot%202026-02-17%20115112.png) | ![](screenshots/Screenshot%202026-02-17%20115146.png) |
 
 ---
 
