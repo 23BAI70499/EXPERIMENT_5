@@ -56,6 +56,8 @@ This project demonstrates how to optimize frontend performance in a React Single
   <img src="screenshots/Screenshot%202026-02-17%20115126.png" width="45%" />
   <img src="screenshots/Screenshot%202026-02-17%20115146.png" width="45%" />
 </p>
+<p align="center">
+  <img src="screenshots/final.jpg" width = "100%"/>
 ---
 
 ## ▶️ How to Run This Project
