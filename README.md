@@ -41,17 +41,18 @@ This project demonstrates how to optimize frontend performance in a React Single
 - SPA Routing (React Router DOM)
 
 ---
-
-
 ## 📷 Screenshots (Combined)
 
-| Screenshot 1 | Screenshot 2 |
-|------------|--------------|
-| ![](screenshots/1.jpg) | ![](screenshots/2.jpg) |
+<p align="center">
+  <img src="screenshots/1.jpg" width="45%" />
+  <img src="screenshots/2.jpg" width="45%" />
+</p>
 
-| Screenshot 3 | Screenshot 4 |
-|------------|--------------|
-| ![](screenshots/Screenshot%202026-02-17%20115112.png) | ![](screenshots/Screenshot%202026-02-17%20115146.png) |
+<p align="center">
+  <img src="screenshots/Screenshot%202026-02-17%20115112.png" width="45%" />
+  <img src="screenshots/Screenshot%202026-02-17%20115146.png" width="45%" />
+</p>
+
 
 ---
 
